@@ -29,7 +29,7 @@ This project analyzes restaurant inspection data to identify common food safety 
 
 ## Dashboard Preview
 
-![Dashboard](Images/
+![Food Safety Dashboard](Images/dashboard_overview.png)
 
 ## Key Skills Demonstrated
 
