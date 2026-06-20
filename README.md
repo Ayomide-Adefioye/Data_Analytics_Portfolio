@@ -36,5 +36,15 @@ This project analyzes restaurant inspection data to identify common food safety 
 - Data Cleaning
 - SQL Querying
 - Exploratory Data Analysis
+
+
+## SQL Analysis
+Key analyses performed;
+
+- Most common violations
+- Borough perfomance comparison
+- Cuisine risk analysis
+- Grade trend analysis
+- Critical violation rate calculations
 - Data Visualization
 - Business Intelligence
