@@ -37,6 +37,11 @@ This project analyzes restaurant inspection data to identify common food safety 
 - SQL Querying
 - Exploratory Data Analysis
 
+## Linked data
+Due to the size of the dataset, i only uploaded the first 1000 rows, for both the raw and cleaned data, respectively.
+You can access the whole dataset via the linke below;
+https://drive.google.com/drive/folders/1zwTYgH6bUY03Wh06HYBhvxaqNj5bhkWs
+
 
 ## SQL Analysis
 Key analyses performed;
